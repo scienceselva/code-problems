@@ -10,5 +10,5 @@ day 7   : Completed
 day 8   : Completed  
 day 9   : Completed    
 day 10  : Completed    
-day 11    
-day 12
+day 11  : Completed  
+day 12  : Completed
